@@ -1,7 +1,12 @@
-# Embedded file name: /Users/versonator/Jenkins/live/output/mac_64_static/Release/python-bundle/MIDI Remote Scripts/MPK261/__init__.py
-# Compiled at: 2018-04-23 20:27:04
+#
+#
+# Custom MPK261 Control Scripts
+# By: Scott Mudge
+# mail@scottmudge.com
+#
+#
 from __future__ import absolute_import, print_function, unicode_literals
-from .MPK261 import MPK261
+from .MPK261_Mod import MPK261
 from _Framework.Capabilities import controller_id, inport, outport, CONTROLLER_ID_KEY, PORTS_KEY, NOTES_CC, SCRIPT, REMOTE
 
 def get_capabilities():

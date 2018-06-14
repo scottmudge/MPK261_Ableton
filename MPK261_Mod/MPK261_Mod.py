@@ -1,5 +1,10 @@
-# Embedded file name: /Users/versonator/Jenkins/live/output/mac_64_static/Release/python-bundle/MIDI Remote Scripts/MPK261/MPK261.py
-# Compiled at: 2018-04-23 20:27:04
+#
+#
+# Custom MPK261 Control Scripts
+# By: Scott Mudge
+# mail@scottmudge.com
+#
+#
 from __future__ import absolute_import, print_function, unicode_literals
 from _Framework.ControlSurface import ControlSurface
 from _Framework.Layer import Layer
